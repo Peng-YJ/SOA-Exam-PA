@@ -6,4 +6,4 @@ The repo will include most of the materials and summary needed to pass the exam.
 2. The Past Exams and Solutions: https://www.soa.org/education/exam-req/syllabus-study-materials/edu-multiple-choice-exam
 3. Lecture notes for E-Learning Module (which is given after registration), mainly focused on the explanation of the R results.
 4. The summary sheets from Coaching Actuaries (including both Exam PA and Exam SRM)
-5. other notes from the textbooks
+5. Other notes from the textbooks
